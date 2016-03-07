@@ -42,6 +42,7 @@ public class SmsConstants {
      * This value is not defined in global standard. Only in Korea, this is used.
      */
     public static final int ENCODING_KSC5601 = 4;
+    public static final int ENCODING_EUC_KR = 5;
 
     /** The maximum number of payload bytes per message */
     public static final int MAX_USER_DATA_BYTES = 140;
